@@ -1,3 +1,5 @@
+Deployed on  https://jobportal-backend-pri0.onrender.com
+
 # JobPortal
 
 This is the backend for the Job Portal application, built using Node.js, Express, and MongoDB. It provides APIs for user authentication, job postings, job applications, and security features like rate limiting and JWT authentication.
