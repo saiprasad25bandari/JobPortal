@@ -1,4 +1,4 @@
-Deployed on  https://jobportal-backend-pri0.onrender.com
+Deployed on  https://jobportal-backend-pri0.onrender.com/api/
 
 # JobPortal
 
